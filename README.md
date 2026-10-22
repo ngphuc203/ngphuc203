@@ -78,17 +78,6 @@
 
 </div>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/ngphuc203">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ngphuc203&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true" alt="GitHub Contribution Activity Graph" />
-</a>
-
-</div>
 
 ---
 
