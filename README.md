@@ -79,7 +79,7 @@
   <a href="https://www.tiktok.com/@b1ackcat.exe"target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/tiktok.png" alt="" />
   </a>
-  <a href="https://instagram.com/ngphuc.exe" target="blank">
+  <a href="https://instagram.com/szismee" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="" />
   </a>
   <a href="mailto:ngphuc1753@gmail.com" target="top">
