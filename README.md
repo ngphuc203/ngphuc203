@@ -2,10 +2,10 @@
 <div align="center">
 
 <a href="https://github.com/ngphuc203">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:22C55E&height=220&section=header&text=NG%20PHUC&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="Ng Phuc GitHub Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:22C55E&height=220&section=header&text=NG%20PHUC&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="ngphuc GitHub Banner" />
 </a>
 
-# 👋 Hi, I'm Ng Phuc
+#  I'm ngphuc
 
 ### 💻 Developer | 🚀 Technology Enthusiast | 🎯 Lifelong Learner
 
