@@ -41,7 +41,7 @@
 ### 🌐 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,vue,nuxt,tailwind,sass,bootstrap,threejs" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,vue,bootstrap,threejs" alt="Frontend technologies" />
 </p>
 
 ### ⚙️ Backend Development & Database
