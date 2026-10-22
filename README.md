@@ -76,7 +76,7 @@
   <a href="https://www.youtube.com/@shyn.exe01"target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="" />
   </a>
-  <a href="https://www.tiktok.com/@b1ackcat.exe"target="blank">
+  <a href="https://www.tiktok.com/@szismee"target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/tiktok.png" alt="" />
   </a>
   <a href="https://instagram.com/szismee" target="blank">
